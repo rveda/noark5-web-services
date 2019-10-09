@@ -1044,7 +1044,7 @@ Content-Type: application/json
 
 {
   "type": string,
-  "id": number
+  "id": string
 }
 ```
 
@@ -1072,7 +1072,7 @@ Content-Type: application/json
 
 {
   "type": string,
-  "id": number
+  "id": string
 }
 ```
 
