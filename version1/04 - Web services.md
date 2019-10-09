@@ -676,6 +676,12 @@ Content-Type: application/json
     {
       "type": string,
       "field": string,
+      "defaultValue": {
+        "code": string,
+        "name": string,
+        "description": string,
+        ...
+      },
       "values": [
         {
           "code": string,
@@ -699,6 +705,16 @@ Content-Type: application/json
     - object type that this code list applies to
   - **field**
     - field in the object type that this code list applies to
+  - **defaultValue**
+    - default code list value for the specified type and field
+    - **code**
+      - unique identifier of the code list value in the particular code list
+    - **name**
+      - user-friendly name of the code list value
+    - **description**
+      - description of the code list value
+  - **values**
+    - all code list values for the specified type and field
     - **code**
       - unique identifier of the code list value in the particular code list
     - **name**
