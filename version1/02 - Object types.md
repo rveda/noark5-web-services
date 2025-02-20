@@ -4,6 +4,11 @@ Object types
 
 - [Arkiv](#Arkiv)
 - [Arkivskaper](#Arkivskaper)
+- [Arkivdel](#Arkivdel)
+- [Klassifikasjonssystem](#Klassifikasjonssystem)
+- [Klasse](#Klasse)
+
+
 
 
 ## Overview
