@@ -7,8 +7,20 @@ Object types
 - [Arkivdel](#Arkivdel)
 - [Klassifikasjonssystem](#Klassifikasjonssystem)
 - [Klasse](#Klasse)
-
-
+- [Mappe](#Mappe)
+- [Saksmappe](#Saksmappe)
+- [Sakspart](#Sakspart)
+- [Moetemappe](#Moetemappe)
+- [Moetedeltaker](#Moetedeltaker)
+- [Basisregistrering](#Basisregistrering)
+- [Moeteregistrering](#Moeteregistrering)
+- [Arkivnotat](#Arkivnotat)
+- [Journalpost](#Journalpost)
+- [Korrespondansepart](#Korrespondansepart)
+- [Dokumentflyt](#Dokumentflyt)
+- [Avskrivning](#Avskrivning)
+- [Dokument](#Dokument)
+- [Dokumentversjon](#Dokumentversjon)
 
 
 ## Overview
